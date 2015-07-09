@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Upload</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="success">成功</string>
+    <string name="filenotexsit">文件不存在</string>
+    <string name="sdcarderror">sd卡异常</string>
+
+</resources>
